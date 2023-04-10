@@ -15,7 +15,7 @@ def play_game():
     print("Welcome to the 'Guess the Number' game!")
     print("Try to guess the 4-digit code with unique digits (1-9).")
     print("I will provide feedback after each attempt:")
-    print("The first number will represent the count of digits in your guess that are in the code but not in the correct position.")
+    print("The first number will represent the count of digits in your guess that are in the code.")
     print("The second number will represent the count of digits in your guess that are both in the code and in the correct position.")
 
     while True:
